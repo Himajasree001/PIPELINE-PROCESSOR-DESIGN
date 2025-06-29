@@ -10,7 +10,7 @@
 
 *DURATION*: 8 WEEKS
 
-*MENTOR*: NEELA SANTOSH
+*MENTOR*: NEELA SANTHOSH
 
 **Task Name: Design and Simulation of a Basic Pipelined Processor Using Verilog**
 
